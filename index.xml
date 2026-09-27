@@ -2,31 +2,31 @@
 <rss version="2.0">
     <channel>
       <title>Quartz 5</title>
-      <link>https://blogg.hannelen.com</link>
+      <link>https://blogg.hannelen.no</link>
       <description>Last 10 notes on Quartz 5</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Tag Index</title>
-    <link>https://blogg.hannelen.com/tags/</link>
-    <guid>https://blogg.hannelen.com/tags/</guid>
+    <link>https://blogg.hannelen.no/tags/</link>
+    <guid>https://blogg.hannelen.no/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 27 Sep 2026 21:32:30 GMT</pubDate>
+    <pubDate>Sun, 27 Sep 2026 21:48:38 GMT</pubDate>
   </item><item>
     <title>Bøker jeg har lest (og likt)</title>
-    <link>https://blogg.hannelen.com/b%C3%B8ker-jeg-har-lest-(og-likt)</link>
-    <guid>https://blogg.hannelen.com/b%C3%B8ker-jeg-har-lest-(og-likt)</guid>
+    <link>https://blogg.hannelen.no/b%C3%B8ker-jeg-har-lest-(og-likt)</link>
+    <guid>https://blogg.hannelen.no/b%C3%B8ker-jeg-har-lest-(og-likt)</guid>
     <description><![CDATA[ Of Monsters and Mainframes Of Monsters and Mainframes. ]]></description>
     <pubDate>Sun, 27 Sep 2026 21:20:22 GMT</pubDate>
   </item><item>
     <title>index</title>
-    <link>https://blogg.hannelen.com/</link>
-    <guid>https://blogg.hannelen.com/</guid>
+    <link>https://blogg.hannelen.no/</link>
+    <guid>https://blogg.hannelen.no/</guid>
     <description><![CDATA[ Hopefully a happy home for whatever I want to share with the world. ]]></description>
     <pubDate>Sun, 06 Sep 2026 11:42:27 GMT</pubDate>
   </item><item>
     <title>Hello world!</title>
-    <link>https://blogg.hannelen.com/hello-world!</link>
-    <guid>https://blogg.hannelen.com/hello-world!</guid>
+    <link>https://blogg.hannelen.no/hello-world!</link>
+    <guid>https://blogg.hannelen.no/hello-world!</guid>
     <description><![CDATA[  ]]></description>
     <pubDate>Sun, 06 Sep 2026 11:25:48 GMT</pubDate>
   </item>
